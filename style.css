@@ -1,0 +1,15 @@
+/*
+*  Eftal Yurtseven
+*/
+
+body{margin: 0; padding: 0; background: #fff; font: 14px Tahoma; line-height:50px}
+*{margin: 0; padding: 0; list-style-type: none; border: 0}
+
+#center{width: 650px; padding: 15px; background: #eee; border: 1px solid #ddd; margin: 50px auto;}
+
+.input{width: 80%; padding: 7px; background: #f1f1f1; border: 1px solid #ddd; margin: 10px}
+.gonder{padding: 5px 8px; background: #333; margin: 10px; cursor: pointer; font: bold 14px Arial; color: #fff}
+
+#sonuc{line-height:25px;padding: 7px; background: #ddd; border: 1px solid #bbb; color: #000;}
+.hata{background: red; color: #fff}
+.ok{background: green; color: #fff}

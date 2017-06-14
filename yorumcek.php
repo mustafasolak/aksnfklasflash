@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
 
 <?php 
-error_reporting(0);
+	error_reporting(0);
 
 	$basla=microtime(); 
 	ini_set('memory_limit', '-1');
